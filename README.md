@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @daisychuying
 - 👀 I’m interested in traveling, hiking, and diving
-- 🌱 I’m currently learning C👩🏻‍💻
+- 🌱 I’m currently learning CS👩🏻‍💻
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...drift bottle🍾
 

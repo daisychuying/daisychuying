@@ -1,6 +1,7 @@
- 👋 Hi, I’m Chuying Huang - 黄楚盈. @daisychuying
-- 👩🏻‍💻 I graduated from UC San Diego with a B.S. NanoEngineering degree
-- 🌱 I’m currently pursuing MS Computer Science in Northeastern University
+# Hello, folks! I’m Chuying Huang - Daisy👩🏻‍💻 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+ 
+- 👩🏻‍🔬 I graduated from UC San Diego with a B.S. NanoEngineering degree
+- 👩🏻‍💻 I’m currently pursuing MS Computer Science in Northeastern University
 - 👀 I’m interested in traveling, hiking, and diving
 - 📫 How to reach me ...drift bottle🍾?
 

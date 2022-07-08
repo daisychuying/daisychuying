@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @daisychuying
+ 👋 Hi, I’m Chuying Huang - 黄楚盈. @daisychuying
+- 👩🏻‍💻 I graduated from UC San Diego with a B.S. NanoEngineering degree
+- 🌱 I’m currently pursuing MS Computer Science in Northeastern University
 - 👀 I’m interested in traveling, hiking, and diving
-- 🌱 I’m currently learning CS👩🏻‍💻
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...drift bottle🍾
+- 📫 How to reach me ...drift bottle🍾?
 
 <!---
 daisychuying/daisychuying is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
